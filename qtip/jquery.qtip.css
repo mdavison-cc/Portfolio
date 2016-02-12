@@ -16,11 +16,11 @@
 	top: -28000px;
 	display: none;
 
-	max-width: 280px;
+	max-width: 300px;
 	min-width: 50px;
 
 	font-size: 10.5px;
-	line-height: 12px;
+	line-height: 80px;
 
 	direction: ltr;
 
@@ -105,8 +105,9 @@
 	border: 1px solid #FFF;
 	background-color: #FFF;
 	color: #000;
-	font-size:30px;
+	font-size:60px;
 	font-family: 'Indie Flower', cursive;
+	border-radius:5px;
 }
 
 	.qtip-default .qtip-titlebar{
